@@ -1,0 +1,394 @@
+[
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\AmmoItem.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\AmmoItem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_ChangeMoveSpeed.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_ChangeMoveSpeed.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_PlayerDead.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_PlayerDead.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_PlayerLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_PlayerLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_PlayerLocationIfSeen.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_PlayerLocationIfSeen.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_SetAim.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_SetAim.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_SetBoolAfterCooldown.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_SetBoolAfterCooldown.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_UnsetAim.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTService_UnsetAim.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTTask_ClearBlackboardValue.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTTask_ClearBlackboardValue.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTTask_PlaySoundWithBoolChange.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTTask_PlaySoundWithBoolChange.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTTask_Shoot.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\BTTask_Shoot.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\CustomInputUserSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\CustomInputUserSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\Gun.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\Gun.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\InputModifierAimSensitivity.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\InputModifierAimSensitivity.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\InventoryComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\InventoryComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\KillEmAllGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\KillEmAllGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\MediKit.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\MediKit.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\PlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\PlayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\ShooterAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\ShooterAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\ShooterCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\ShooterCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\ShooterPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\ShooterPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\SoundMixModifier.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\SoundMixModifier.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\SpaceShooter.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\SpaceShooter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\SpaceShooter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\SpaceShooterGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\Source\\SpaceShooter\\SpaceShooterGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\andre\\Documents\\Unreal Projects\\SpaceShooter\\.vscode\\compileCommands_SpaceShooter\\SpaceShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
